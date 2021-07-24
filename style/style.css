@@ -1,0 +1,38 @@
+body {
+    background-color: #C6B4CE;
+    
+}
+
+hr {
+
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 7px;
+   width: 4%;
+   height: 0px;
+
+}
+h1
+{
+    
+    color: #3E215D;
+    font-style: italic;
+    font-family: cursive;
+}
+h1:hover
+{
+   /* font-size: x-large;*/
+    color:purple;
+}
+h3:hover
+{
+    color: purple;
+}
+
+h3
+{
+    font-style: italic;
+    color: #3E215D;
+    font-family: cursive;
+}
